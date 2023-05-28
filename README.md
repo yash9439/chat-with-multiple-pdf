@@ -2,6 +2,8 @@
 
 This project allows you to engage in interactive conversations with your PDF documents using LangChain, ChromaDB, and OpenAI's API. With this powerful combination, you can extract valuable insights and information from your PDFs through dynamic chat-based interactions.
 
+Article - https://medium.com/@yash9439/unleashing-the-power-of-chat-with-multiple-pdfs-a-beginners-guide-fa1b6d4d6b89
+
 ## Architecture
 
 The architecture of this project involves several components working together:
